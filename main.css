@@ -1,0 +1,183 @@
+﻿.pull-v {
+	margin-left: 10px;
+    float: left!important;
+}
+
+.pull-h {
+	margin-right: 10px;
+    float: right!important;
+}
+
+.navbar {
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	position: relative;
+	margin-top: -8px;
+	margin-right: -8px;
+	margin-left: -8px;
+	min-height: 25px;
+	overflow: hidden;
+	background-color: #000000;
+}
+
+.navbar table {
+	display: inline;
+	margin-top: -5px;
+	margin-bottom: -5px;
+	bottom: 0;
+}
+
+.navbar td {
+	display: inline;
+	padding: 14px 10px;
+	position: relative;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 15px;
+	text-transform: uppercase;
+	font-family: verdana;
+}
+
+.navbar .logo img {
+	width: 150px;
+	height: relative;
+}
+
+.jumbocon{
+	background: radial-gradient(#006, #306, #009, #309, #00C, #30C);
+	min-height: 350px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+}
+
+.jumbocon h1 {
+	color: black;
+	font-size: 48px;
+	font-family: verdana;
+	font-weight: bold;
+	text-transform: uppercase;
+	position: top;
+}
+
+.jumbocon p {
+	font-size: 20px;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.jumbocon td {
+	display: inline;
+}
+
+.jumbocon .container {
+	width: 705px;
+	height: 375px;
+	position: relative;
+    padding-right: 30px;
+    border: 5px solid black;
+	border-left: 0px;
+	border-radius: 20px;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+	background-color: black;
+}
+
+.jumbocon .container h1 {
+	color: white;
+	margin-bottom: 1px;
+	margin-top: 5px;
+}
+
+.jumbocon .container td {
+	width: relative;
+}
+
+.jumbocon .container .inception {
+	background-color: white;
+	width: 100%;
+	height: 68%;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	border-top-style: none;
+    border: 5px solid white;
+	border-top: black;
+	border-radius: 20px;
+}
+
+.table-b ul{
+        padding: 0;
+        list-style: none;
+    }
+	
+    .table-b ul li{
+	float: left;
+	width: 175px;
+	text-align: center;
+	line-height: 20px    
+}
+	
+    .table-b ul li a{
+        display: block;
+        padding:5px 10px;
+        color: #FFF;
+        background: #000;
+        text-decoration: none;
+		text-transform: uppercase;
+		font-family: verdana;
+    }
+	
+    .table-b ul li a:hover{
+        color: #000;
+        background: #FFF;
+    }
+	
+    .table-b ul li ul{
+        display: none;
+    }
+	
+    .table-b ul li:hover ul{
+        display: block; /* display the dropdown */		
+    }
+
+.maincon{
+	background-color: black;
+	min-height: 500px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-bottom: -8px;
+	padding-top: 5px;
+}
+
+.mainception{
+	width: 705px;
+	height: 375px;
+	position: relative;
+	border-radius: 20px;
+    margin-top: 50px;
+	margin-bottom: -8px;
+	background-color: white;
+}
+
+.prodlist td{
+	font-size: 30px;
+	color: black;
+	font-family: verdana;
+	font-weight: bold;
+}
